@@ -129,3 +129,5 @@ Monad 极大地提高了计算效率，实现了一个支持更多用户和应�
 跟上每个 Rollup 区块并执行所有交易以进行增量状态更新。 Monad 专注于执行吞吐量，通过构建超高性能的
 执行系统和共识机制来提高 L1 区块链性能，以推动 EVM 向前发展。
 
+
+参考文档：https://www.monad.xyz/post/monad-vs-rollups
