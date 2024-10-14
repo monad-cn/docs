@@ -1,0 +1,10 @@
+{
+  "title": "Monad 中文站",
+  "author": "Moand 中文社区",
+  "language": "en",
+  "plugins": ["highlight", "search"],
+  "structure": {
+    "readme": "readme.md",
+    "summary": "SUMMARY.md"
+  }
+}
