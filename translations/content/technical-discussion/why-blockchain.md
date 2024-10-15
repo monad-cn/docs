@@ -34,7 +34,7 @@ class VirtualBank:
 
   def withdraw(sender, amount):
     # 确保发送者有足够的存款
-    # d进行内部账务处理以扣除发送者的金额
+    # 进行内部账务处理以扣除发送者的金额
     # 将金额从我自己（银行）转移给发送者
 
   def borrow(sender, amount):
