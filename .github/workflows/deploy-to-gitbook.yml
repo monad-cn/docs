@@ -13,9 +13,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Switch dir
-      uses: cd ./translation
-
     - name: Install GitBook CLI
       run: |
         npm install -g gitbook-cli
