@@ -30,7 +30,7 @@
 5. 根据审核的意见和反馈，修改优化翻译内容并在本分支继续提交。
 6. 由审核员和管理员确认无翻译问题后对本次 `PR` 进行合并，由管理员更新 `readme` 文件并关闭 `issue`。
 
-完整的协作流程请参考 [issue](https://github.com/monad-cn/docs/issues/5)。
+完整的协作流程请参考示例 [issue](https://github.com/monad-cn/docs/issues/5)和 [PR](https://github.com/monad-cn/docs/pull/23)。
 
 
 ## 使用 GitBook 本地启动
