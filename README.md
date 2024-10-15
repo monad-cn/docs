@@ -16,5 +16,5 @@
 
 #### Monad 官网
 
-1、[简介](./content/introduction.md) ✅
+1、[简介](./translations/content/introduction.md) ✅
 
