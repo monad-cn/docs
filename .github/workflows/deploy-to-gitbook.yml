@@ -28,8 +28,6 @@ jobs:
       run: gitbook build
 
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./translations/_book  
-
+      env:
+        GITBOOK_TOKEN: ${{ secrets.GITBOOK_TOKEN }}  
+      run: gitbook push ./translations/_book https://monad-cn.gitbook.io/monad
