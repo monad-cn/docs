@@ -23,9 +23,14 @@
 
 我们欢迎任何对项目感兴趣的开发者、翻译者和技术爱好者参与贡献！如果您想为翻译项目做贡献，请遵循以下步骤：
 
-1. `Fork` 这个仓库。
-2. 创建一个新的分支并进行翻译工作。
-3. 提交您的更改并发起 `Pull Request`。
+1. 为避免重复翻译，请先在 [issues](https://github.com/monad-cn/docs/issues) 中认领文章。管理员会对 `issue` 进行分配，得到分配后即确认认领。
+2. 认领文章后 `Fork` 仓库，然后创建分支，建议以每一篇文章的翻译建立一个分支(如：`feature/why-blockchain`)。
+3. 翻译好后提交 `PR` ，标题应该简洁明了，建议关联 `issue` 编号（如：Fixes #5）; 在 `PR` 描述中可以写一些存在疑问/不会/拿不准的翻译问题。
+4. 由社区管理员认领审核或分配审核，对翻译内容进行交叉评审反馈。
+5. 根据审核的意见和反馈，修改优化翻译内容并在本分支继续提交。
+6. 由审核员和管理员确认无翻译问题后对本次 `PR` 进行合并，由管理员更新 `readme` 文件并关闭 `issue`。
+
+完整的协作流程请参考 [issue](https://github.com/monad-cn/docs/issues/5)。
 
 
 ## 使用 GitBook 本地启动
@@ -46,7 +51,7 @@ npm install -g gitbook-cli
 gitbook install
 ```
 
-注意：可以因为有的插件不支持你的`node`版本，如果报错可以选择使用`node 10.x`，重新安装`gitbook-cli`后重试。
+注意：可以因为有的插件不支持你的`node`版本，如果报错可以切换到`node 10.x`版本后重试。
 
 3. 本地启动
 
@@ -55,7 +60,7 @@ gitbook build
 gitbook serve
 ```
 
-打开浏览器并访问 http://localhost:4000，将能够查看本地文档。
+打开浏览器并访问 http://localhost:4000 查看本地文档。
 
 
 ## 联系我们
