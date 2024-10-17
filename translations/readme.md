@@ -1,7 +1,9 @@
 
 # Monad 官网中文版
 
-本项目旨在将 [Monad 的官方网站](https://docs.monad.xyz/)内容翻译成中文，以便更多的中文用户能够更好地理解和使用 Monad 的相关信息。
+~~本项目旨在将 [Monad 的官方网站](https://docs.monad.xyz/)内容翻译成中文，以便更多的中文用户能够更好地理解和使用 Monad 的相关信息。~~ (由于已有社区翻译完成，故停止翻译)
+
+[Monad 官网中文版](https://monad.docszh.com/)
 
 
 ## 翻译目标

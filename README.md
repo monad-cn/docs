@@ -14,9 +14,9 @@
 
 ### 翻译内容
 
-翻译 Monad 相关的英文文档，以便中文用户更好地理解。目前社区正在翻译 [Monad 官网](https://docs.monad.xyz/)，如果您想为翻译项目做贡献，请查看[贡献指南](./translations/readme.md)。
+翻译 Monad 相关的英文文档，以便中文用户更好地理解。
 
-#### Monad 官网
+~~目前社区正在翻译 [Monad 官网](https://docs.monad.xyz/)，如果您想为翻译项目做贡献，请查看[贡献指南](./translations/readme.md)。~~ (由于已有社区翻译完成，故停止翻译)
 
-1、[简介](./translations/content/introduction.md) ✅
+[Monad 官网中文版](https://monad.docszh.com/)
 
