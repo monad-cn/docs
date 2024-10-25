@@ -2,3 +2,38 @@
 _book/
 node_modules/
 .DS_Store
+
+# Node.js
+package-lock.json
+.lintstagedrc.js
+*/.husky
+
+# Next.js build output
+.next/
+out/
+
+# yarn
+.yarn/*
+*/.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+*/packages
+*/node_modules
+*/.yarnrc.yml
+*/yarn.lock
+
+# eslint
+.eslintcache
+
+# misc
+.DS_Store
+
+# IDE
+.vscode
+.idea
+
+# cli
+dist
