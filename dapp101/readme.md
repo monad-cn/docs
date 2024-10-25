@@ -18,13 +18,13 @@ Workshop 内容包括：
 体验测试网需要用到 [Scaffold-ETH](https://scaffoldeth.io/)，`Scaffold-ETH` 是一个开源的最新工具包，用于在以太坊区块链上构建去中心化应用程序。
 
 
-##### 依赖
+#### 依赖
 
 - [Node (>= v18.18)](https://nodejs.org/en/download/)
 - Yarn ([v1](https://classic.yarnpkg.com/en/docs/install/) or [v2+](https://yarnpkg.com/getting-started/install))
 - Git
 
-##### 初始化项目
+#### 初始化项目
 
 初始化比较耗时，可以提前初始化。
 
@@ -65,13 +65,13 @@ $ npx create-eth@0.0.55
 ```
 
 
-##### 领水
+#### 领水
 
 本次活动的水龙头由 [HackQuest](https://www.hackquest.io/zh) 提供，水龙头地址： https://www.hackquest.io/zh/faucets/41454 , 一次可以领3 MON，足够完成一次合约部署。
 
 ![faucet](./public/faucet.png)
 
-##### 添加 Monad Devnet
+#### 添加 Monad Devnet
 
 网络名称：Monad Devnet 
 RPC URL：https://monad.devnet101.com/rpc/myU75Ctvm8IZpuvuX5diRNZOOKXVgmQH 
