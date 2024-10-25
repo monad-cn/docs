@@ -72,7 +72,11 @@ $ npx create-eth@0.0.55
 
 #### 领水
 
-本次活动的水龙头由 [HackQuest](https://www.hackquest.io/zh) 提供，水龙头地址： https://www.hackquest.io/zh/faucets/41454 , 一次可以领3 MON，足够完成一次合约部署。
+水龙头：
+- [OpenBuild](https://faucet.openbuild.xyz/Ether/monad)
+- [HackQuest](https://www.hackquest.io/zh/faucets/41454)
+
+一天领一次, 一次可以领3 MON，足够完成一次合约部署。
 
 ![faucet](./public/faucet.png)
 
