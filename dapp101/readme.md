@@ -73,11 +73,11 @@ $ npx create-eth@0.0.55
 
 #### 添加 Monad Devnet
 
-网络名称：Monad Devnet 
-RPC URL：https://monad.devnet101.com/rpc/myU75Ctvm8IZpuvuX5diRNZOOKXVgmQH 
-ChainId：41454 
-Token：MON
-区块浏览器：https://blockscout.devnet101.com/ 
+- 网络名称：`Monad Devnet`
+- RPC URL：`https://monad.devnet101.com/rpc/myU75Ctvm8IZpuvuX5diRNZOOKXVgmQH`
+- ChainId：`41454`
+- Token：`MON`
+- 区块浏览器：`https://blockscout.devnet101.com/`
 
 ![network](./public/network.png)
 
