@@ -73,8 +73,8 @@ $ npx create-eth@0.0.55
 #### 领水
 
 水龙头一天领一次, 一次可以领3 MON，足够完成一次合约部署。
-- OpenBuild：https://faucet.openbuild.xyz/Ether/monad)
-- HackQuest：https://www.hackquest.io/zh/faucets/41454)
+- OpenBuild：https://faucet.openbuild.xyz/Ether/monad
+- HackQuest：https://www.hackquest.io/zh/faucets/41454
 
 
 ![faucet](./public/faucet.png)
