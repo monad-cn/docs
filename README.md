@@ -27,3 +27,8 @@
 ### 活动
 
 - [Monad 101 中国巡回之旅](./dapp101/readme.md)
+
+
+### Monad Madness
+- [Madness session1 项目精粹](./madness/session1.md)
+
