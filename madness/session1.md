@@ -14,6 +14,7 @@
 #### 第一名：EarnOS，一个基于链抽象的商业平台
 
 官网：https://beta.earnos.io/
+
 推特：https://x.com/earnos_io
 
 ![earnos](./images/session1-earnos.png)
@@ -24,6 +25,7 @@ EarnOS 致力于在数字广告领域实现变革，通过去中心化的方式�
 #### 第二名：Sauce.GG，一个专注于 meme 币的交易平台
 
 官网：https://sauce.gg/
+
 推特：https://x.com/saucegg_
 
 ![sauce](./images/session1-sauce.png)
@@ -34,6 +36,7 @@ EarnOS 致力于在数字广告领域实现变革，通过去中心化的方式�
 #### 第三名：LEVR，一个去中心化杠杆娱乐平台
 
 官网：https://www.levr.bet/
+
 推特：https://x.com/LEVR_bet
 
 ![levr](./images/session1-levr.png)
