@@ -1,10 +1,10 @@
 
-本仓库专注于收集和整理与 [Monad](https://docs.monad.xyz/) 相关的技术文章、翻译资料以及官方文档。希望通过该项目为开发者、翻译爱好者和技术极客提供一个深入了解 Monad 技术的资源库。在这里，你可以找到全面的学习资料、实用的开发指南以及最新的技术动态，帮助你更好地掌握 Monad。
+本仓库专注于收集和整理与 [Monad](https://docs.monad.xyz/) 相关的技术文章、翻译资料以及官方文档。希望通过该项目为开发者、Monad 关注者提供一个深入了解 Monad 的资源库。
 
 
 ### 技术文章
 
-提供关于 Monad 的技术文章，涵盖架构、设计、实现等方面。由社区和贡献者提供内容，会发布到社媒平台。
+关于 Monad 的技术文章，涵盖架构、设计、实现等方面。
 
 [101](./articles/101_为什么需要Monad.md)、为什么需要Monad？ | [公众号](https://mp.weixin.qq.com/s/I323A1NdK_EANBRY2IZaeg)
 
@@ -16,8 +16,10 @@
 
 [105](./articles/105_Monad是如何工作的.md)、Monad 是如何工作的？ 
 
+[106](./articles/106_5WMonad.md)、探究 Monad：五个 W 问题——Who、What、How、Why、When
 
-### 翻译内容
+
+### 翻译
 
 翻译 Monad 相关的英文文档，以便中文用户更好地理解。
 
