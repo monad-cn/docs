@@ -1,4 +1,4 @@
-# 探究 Monad：五个W问题 —— Who、What、How、Why、When
+# 探究 Monad：Who、What、How、Why、When
 
 原文：https://x.com/cryptunez/status/1865077152623788354
 作者：@cryptunez
@@ -89,7 +89,7 @@ Monad 代表了一种愿景：可以兼得高性能和高度去中心化。
 简而言之：
 
 - Who - 来自 Jump 和 HFT/MM 领域的顶尖开发者
-- When - 解决了区块链三难问题
+- What - 解决了区块链三难问题
 - How - 创新（异步执行、并行执行、MonadDB、MonadBFT）
 - Why - 为 EVM 带来最佳的用户体验（性能 + 去中心化）
 - When - 很快，Gmonad 💜
