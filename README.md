@@ -14,9 +14,11 @@
 
 [104](./articles/104_Monad的并行执行.md)、Monad 的并行执行 | [公众号](https://mp.weixin.qq.com/s/oc0UnOYX-f5Q1wKF4DYySg)
 
-[105](./articles/105_Monad是如何工作的.md)、Monad 是如何工作的？ 
+[105](./articles/105_Monad是如何工作的.md)、Monad 是如何工作的？ | [公众号](https://mp.weixin.qq.com/s/8btwBNoCogUXIndIc7sikQ)
 
-[106](./articles/106_5WMonad.md)、探究 Monad：五个 W 问题——Who、What、How、Why、When
+[106](./articles/106_5WMonad.md)、探究 Monad：五个 W 问题——Who、What、How、Why、When | [公众号](https://mp.weixin.qq.com/s/KXb7gmRpOdMNJDJHf2QDJQ)
+
+[107](./articles/107_Monad的安全性优势.md)、Monad 的安全性优势
 
 
 ### 翻译
