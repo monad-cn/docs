@@ -28,7 +28,7 @@
 
 经验丰富的开发者会在智能合约中加入防御性断言，以防止意外情况的发生。顾名思义，防御性断言是一种将预期行为编码为合约逻辑的方式，确保某些条件始终为真。例如，如果某个内部变量预期始终是非负的，开发者可以写出类似 require(var >= 0, 'encountered negative var') 的代码，确保如果该条件不成立，交易会回滚。这种方式有效防御了利用意外情况发起的攻击。
 
-在 DeFi 领域，[许多最大的漏洞](https://valid.network/post/the-reentrancy-strikes-again-the-case-of-lendf-me)都是重入攻击（Reentrancy Attack）。在[重入攻击](https://medium.com/amber-group/preventing-re-entrancy-attacks-lessons-from-history-c2d96480fac3)中，智能合约进入一个意外的状态，通常是在被巧妙构造的合约递归调用后，利用某个逻辑错误进行攻击。重入攻击的核心是合约进入了错误的状态，但没有意识到这一点。通过防御性断言，可以“意识到”这种错误状态，并在错误发生时及时回滚。
+在 DeFi 领域，[很多致命漏洞](https://valid.network/post/the-reentrancy-strikes-again-the-case-of-lendf-me)皆由重入攻击（Reentrancy Attack）引发。在[重入攻击](https://medium.com/amber-group/preventing-re-entrancy-attacks-lessons-from-history-c2d96480fac3)中，智能合约进入一个意外的状态，通常是在被巧妙构造的合约递归调用后，利用某个逻辑错误进行攻击。重入攻击的核心是合约进入了错误的状态，但没有意识到这一点。通过防御性断言，可以“意识到”这种错误状态，并在错误发生时及时回滚。
 
 防御性断言的作用不仅限于防止重入攻击，还能避免一些常见的低级错误。例如，一个常见的错误是将代币发送到包裹以太坊（WETH）合约中，导致代币永久卡住。虽然经常有关于增加额外检查来阻止这一错误的[讨论](https://twitter.com/Analytic_ETH/status/1487961665874415620)，但这些检查会增加额外的 Gas 费用，这对没有出现错误的用户来说是个不小的负担。
 
@@ -47,18 +47,18 @@
 
 有一些巧妙的技巧可以节省 Gas，尽管这些做法可能会牺牲代码的可读性。以下是其中的一些例子：
 
-将函数标记为 “payable”（即使该函数并不打算接收 Ether）减少 Gas 消耗。
+将函数标记为 “payable”（即使该函数并不打算接收 Ether）减少 Gas 消耗：
 
 [![107_5](./images/107_5.png)](https://twitter.com/Mudit__Gupta/status/1482643410834300931)
 
 [![107_6](./images/107_6.png)](https://twitter.com/samczsun/status/1469477928350240771)
 
 
-使用汇编（Assembly）
+使用汇编（Assembly）：
 
 [![107_7](./images/107_7.png)](https://twitter.com/0xkkeon/status/1567254237171847168)
 
-避免使用外部库
+避免使用外部库：
 
 [![107_8](./images/107_8.png)](https://twitter.com/Mudit__Gupta/status/1474015257945264128)
 
@@ -68,7 +68,7 @@
 - https://github.com/0xKitsune/EVM-Gas-Optimizations
 - https://github.com/ControlCplusControlV/Yul-Optimization-Tips
 
-可读性提高了理解，而理解又能提升安全性。团队成员和审计人员需要能够轻松理解代码，这样他们才能识别漏洞，并在进行后续修改时避免引入错误。
+可读性提高了理解，而理解又能提升安全性。团队成员和审计人员需要能够轻松理解代码，这样才能识别漏洞，并在进行后续修改时避免引入错误。
 
 
 [![107_9](./images/107_9.png)](https://twitter.com/stonecoldpat0/status/1149971603536666625)
