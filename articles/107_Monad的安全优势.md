@@ -1,5 +1,7 @@
 ## Monad 的安全优势
 
+### 副标题： 低 Gas 成本，强安全性——Monad 的双重优势
+
 原文： https://monadxyz.substack.com/p/the-security-benefits-of-monad-7884c4c9b398
 
 ![107_1](./images/107_1.png)
