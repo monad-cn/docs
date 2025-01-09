@@ -18,7 +18,7 @@
 
 [106](./articles/106_5WMonad.md)、探究 Monad：五个 W 问题——Who、What、How、Why、When | [公众号](https://mp.weixin.qq.com/s/KXb7gmRpOdMNJDJHf2QDJQ)
 
-[107](./articles/107_Monad的安全优势.md)、Monad 的安全优势
+[107](./articles/107_Monad的安全优势.md)、Monad 的安全优势 | [公众号](https://mp.weixin.qq.com/s/CU8frVlnrI9pBCPjfIxBlQ)
 
 
 ### 翻译
