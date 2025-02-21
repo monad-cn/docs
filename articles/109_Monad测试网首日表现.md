@@ -4,9 +4,9 @@
 作者: Hess  
 来源：https://x.com/0xhess/status/1892577920864113068  
 
-Monad 的公共测试网已于2月19日晚上11时上线，截止2月20日晚上11时，已经处理了近 270 万笔交易，有 242.3 万个钱包地址参与交易，成功率为 98％，时间为 0.5 秒。可以在这里查看详细数据：https://flipsidecrypto.xyz/hess/monad-public-testnet-gHqawFb
+Monad 的公共测试网已于2月19日晚上11时上线，截止2月20日晚上11时，已经处理了近 270 万笔交易，有 24.23 万个钱包地址参与交易，成功率为 98％，时间为 0.5 秒。可以在这里查看详细数据：https://flipsidecrypto.xyz/hess/monad-public-testnet-gHqawFb
 
-在最初的几个小时内，Monad 顺利处理了每秒超过3000笔交易的峰值请求。
+在最初的几个小时内，Monad 顺利处理了每秒超过 3000 笔交易的峰值请求。
 
 ![109_1](./images/109_1.png)
 
