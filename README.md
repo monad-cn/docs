@@ -19,6 +19,8 @@
 [106](./articles/106_5WMonad.md)、探究 Monad：五个 W 问题——Who、What、How、Why、When | [公众号](https://mp.weixin.qq.com/s/KXb7gmRpOdMNJDJHf2QDJQ)
 
 [107](./articles/107_Monad的安全优势.md)、Monad 的安全优势 | [公众号](https://mp.weixin.qq.com/s/CU8frVlnrI9pBCPjfIxBlQ)
+[108](./articles/108_参与Monad贡献的5种方式.md)、参与 Monad 贡献的 5 种方式
+[109](./articles/109_Monad测试网首日表现.md)、Monad 测试网首日表现：一览链上关键数据
 
 
 ### 翻译
