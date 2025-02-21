@@ -6,21 +6,15 @@
 
 关于 Monad 的技术文章，涵盖架构、设计、实现等方面。
 
-[101](./articles/101_为什么需要Monad.md)、为什么需要Monad？ | [公众号](https://mp.weixin.qq.com/s/I323A1NdK_EANBRY2IZaeg)
-
-[102](./articles/102_MonadvsRollups.md)、Monad vs Rollups | [公众号](https://mp.weixin.qq.com/s/bBfahNNgcBRaSmOdpvPCmA)
-
-[103](./articles/103_KeoneHon访谈.md)、Monad 创始人 Keone Hon 深度访谈 | [公众号](https://mp.weixin.qq.com/s/kEtQY-ojT8MZX6rfyaJH0A)
-
-[104](./articles/104_Monad的并行执行.md)、Monad 的并行执行 | [公众号](https://mp.weixin.qq.com/s/oc0UnOYX-f5Q1wKF4DYySg)
-
-[105](./articles/105_Monad是如何工作的.md)、Monad 是如何工作的？ | [公众号](https://mp.weixin.qq.com/s/8btwBNoCogUXIndIc7sikQ)
-
-[106](./articles/106_5WMonad.md)、探究 Monad：五个 W 问题——Who、What、How、Why、When | [公众号](https://mp.weixin.qq.com/s/KXb7gmRpOdMNJDJHf2QDJQ)
-
-[107](./articles/107_Monad的安全优势.md)、Monad 的安全优势 | [公众号](https://mp.weixin.qq.com/s/CU8frVlnrI9pBCPjfIxBlQ)
-[108](./articles/108_参与Monad贡献的5种方式.md)、参与 Monad 贡献的 5 种方式
-[109](./articles/109_Monad测试网首日表现.md)、Monad 测试网首日表现：一览链上关键数据
+[101](./articles/101_为什么需要Monad.md)、为什么需要Monad？ | [公众号](https://mp.weixin.qq.com/s/I323A1NdK_EANBRY2IZaeg)  
+[102](./articles/102_MonadvsRollups.md)、Monad vs Rollups | [公众号](https://mp.weixin.qq.com/s/bBfahNNgcBRaSmOdpvPCmA)  
+[103](./articles/103_KeoneHon访谈.md)、Monad 创始人 Keone Hon 深度访谈 | [公众号](https://mp.weixin.qq.com/s/kEtQY-ojT8MZX6rfyaJH0A)  
+[104](./articles/104_Monad的并行执行.md)、Monad 的并行执行 | [公众号](https://mp.weixin.qq.com/s/oc0UnOYX-f5Q1wKF4DYySg)  
+[105](./articles/105_Monad是如何工作的.md)、Monad 是如何工作的？ | [公众号](https://mp.weixin.qq.com/s/8btwBNoCogUXIndIc7sikQ)    
+[106](./articles/106_5WMonad.md)、探究 Monad：五个 W 问题——Who、What、How、Why、When | [公众号](https://mp.weixin.qq.com/s/KXb7gmRpOdMNJDJHf2QDJQ)  
+[107](./articles/107_Monad的安全优势.md)、Monad 的安全优势 | [公众号](https://mp.weixin.qq.com/s/CU8frVlnrI9pBCPjfIxBlQ)  
+[108](./articles/108_参与Monad贡献的5种方式.md)、参与 Monad 贡献的 5 种方式  
+[109](./articles/109_Monad测试网首日表现.md)、Monad 测试网首日表现：一览链上关键数据  
 
 
 ### 翻译
